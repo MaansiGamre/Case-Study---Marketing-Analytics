@@ -1,1 +1,2 @@
 # Case-Study---Marketing-Analytics
+This report applies advanced marketing analytics to segment the smartwatch market and recommend a data-driven strategy for Intel's re-entry into the industry. Using clustering techniques (Hierarchical Clustering & K-Means Clustering), PCA, and demographic analysis, we identify distinct consumer groups and assess their strategic viability for Intel’s new smartwatch product.
